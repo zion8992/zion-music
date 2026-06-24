@@ -1,9 +1,9 @@
 ## Zion's Music
-A Mindustry mod that fully the default soundtrack.
-**NOTE:** This mod is a WIP, some songs have may be the same.
-
+A Mindustry mod that revamps the default Mindustry soundtrack.<br>
+**NOTE:** This mod is a WIP: most sounds have not been added.<br>
+<br>
 ## Musician's Notes
-All made with FL Studio synths: GMS, Sytrus, SimSynth and FLEX.<br>
+All songs were made with FL Studio using synths and custom instruments.<br>
 **game1.ogg**<br>
 Inspired by game4.ogg from the original soundtrack.<br>
 <br>
