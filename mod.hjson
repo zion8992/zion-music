@@ -1,0 +1,9 @@
+# I love HJSON, since it's JSON, but with comments!!
+name: "zion-music"
+displayName: "Zion's Music"
+author: "zion8992"
+description: "[sky]Zion's Music[clear] By zion8992 \n[clear][orange]A Mindustry Mod that revamps the soundtrack with some new songs.[clear]\n[forest]No Lyrics.[clear]\n[yellow]Star at [teal]github.com/zion8992/zion-music[clear]"
+version: "2.0"
+minGameVersion: "158.0"
+dependencies: [ ]
+hidden: false
