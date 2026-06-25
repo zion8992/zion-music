@@ -18,6 +18,6 @@ ls music/
 sleep 0.8
 
 echo "Compiling mod..."
-zip -r $OUT mod.hjson music -x music/.DS_Store
+zip -r $OUT mod.hjson icon.png music -x music/.DS_Store
 
 echo "Mod Compiled to '$OUT'"
