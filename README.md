@@ -21,4 +21,4 @@ Less dissonant and less "mindustry" than the other songs.<br>
 Inspired by 'editor.ogg' (original soundtrack) and 'Impact' (Purrple Cat: Distant Worlds 4)<br>
 <br>
 
-#### Version 3.0
+#### Version 3.1
