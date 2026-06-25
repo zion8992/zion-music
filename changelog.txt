@@ -1,0 +1,5 @@
+--- Changelog 2.0 -> 3.0 (June 25 2026) ---
+- Make the project file names match the Mindustry names, for some reason game1 was game2.ogg, game2 was game4.ogg...
+- game1.ogg: Add a new voice (GMS Synth) that plays arpeggiated chords and has a little WIP solo
+- game4.ogg: Make the piano in game4 (yes there is a piano) a little more audible ("visible")
+- game2.ogg (DELETED): deleted since game2.ogg was game4 in my project files, ill try to make game2 later this week
