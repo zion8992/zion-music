@@ -3,3 +3,11 @@
 - game1.ogg: Add a new voice (GMS Synth) that plays arpeggiated chords and has a little WIP solo
 - game4.ogg: Make the piano in game4 (yes there is a piano) a little more audible ("visible")
 - game2.ogg (DELETED): deleted since game2.ogg was game4 in my project files, ill try to make game2 later this week
+
+--- Changelog 4.0 beta 1 (June 26 2026) ---
+- Start making game2.ogg
+
+--- Changelog 4.0 beta 2 (June 26 2026) ---
+- Deleted game2.ogg since it sucks
+- Add Detuned Saw to game4 and Dystopian Lead in the beginning
+- Try making game2 again (this time it doesn't sound like "Carol of the Bells")
