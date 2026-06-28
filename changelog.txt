@@ -1,22 +1,22 @@
---- Changelog 3.0 stable (June 25 2026) ---
-- Make the project file names match the Mindustry names, for some reason game1 was game2.ogg, game2 was game4.ogg...
-- game1.ogg: Add a new voice (GMS Synth) that plays arpeggiated chords and has a little WIP solo
-- game4.ogg: Make the piano in game4 (yes there is a piano) a little more audible ("visible")
-- game2.ogg (DELETED): deleted since game2.ogg was game4 in my project files, ill try to make game2 later this week
+--- Changelog 5.0 stable (June 28 2026) ---
+- Add lang.ogg
 
---- Changelog 4.0 beta 1 (June 26 2026) ---
-- Start making game2.ogg
+--- Changelog 4.0 stable (June 28 2026) ---
+- Remove the exhale from menu.ogg
+- Add the licenses of the sound effects used
+- Add song project files
+- Finish game2
 
 --- Changelog 4.0 beta 2 (June 26 2026) ---
 - Deleted game2.ogg since it sucks
 - Add Detuned Saw to game4 and Dystopian Lead in the beginning
 - Try making game2 again (this time it doesn't sound like "Carol of the Bells")
 
---- Changelog 4.0 (June 28 2026) ---
-- Remove the exhale from menu.ogg
-- Add the licenses of the sound effects used
-- Add song project files
-- Finish game2
+--- Changelog 4.0 beta 1 (June 26 2026) ---
+- Start making game2.ogg
 
---- Changelog 5.0 (June 28 2026) ---
-- Add lang.ogg
+--- Changelog 3.0 stable (June 25 2026) ---
+- Make the project file names match the Mindustry names, for some reason game1 was game2.ogg, game2 was game4.ogg...
+- game1.ogg: Add a new voice (GMS Synth) that plays arpeggiated chords and has a little WIP solo
+- game4.ogg: Make the piano in game4 (yes there is a piano) a little more audible ("visible")
+- game2.ogg (DELETED): deleted since game2.ogg was game4 in my project files, ill try to make game2 later this week
