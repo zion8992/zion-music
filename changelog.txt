@@ -17,3 +17,6 @@
 - Add the licenses of the sound effects used
 - Add song project files
 - Finish game2
+
+--- Changelog 5.0 (June 28 2026) ---
+- Add lang.ogg

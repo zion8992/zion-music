@@ -10,7 +10,7 @@ description: '''
 
 [#ffd971[]]★ Star[clear[]] [white[]]at [#849aff[]]github.com/zion8992/zion-music
 '''
-version: "4.0"
+version: "5.0"
 minGameVersion: "158.0"
 dependencies: [ ]
 hidden: false
