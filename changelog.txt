@@ -11,3 +11,8 @@
 - Deleted game2.ogg since it sucks
 - Add Detuned Saw to game4 and Dystopian Lead in the beginning
 - Try making game2 again (this time it doesn't sound like "Carol of the Bells")
+
+--- Changelog 4.0 beta 3 (June 28 2026) ---
+- Remove the exhale from menu.ogg
+- Add the licenses of the sound effects used
+- Add song project files
