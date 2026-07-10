@@ -17,7 +17,8 @@ Not inspired by anything.<br>
 **game4.ogg**<br>
 Inpsired by game1.ogg from the original soundtrack.<br>
 <br>
-**game5.ogg** TODO<br>
+**game5.ogg**<br>
+Something I kept hearing in my head at night with a distuned cello. Woke up next day and made it in FL Studio. Came out pretty well.
 <br>
 **game6.ogg** TODO<br>
 <br>
@@ -45,4 +46,4 @@ Less dissonant and less "mindustry" than the other songs.<br>
 Inspired by 'editor.ogg' (original soundtrack) and 'Impact' (Purrple Cat: Distant Worlds 4)<br>
 <br>
 
-#### Version 5.0
+#### Version 6.0

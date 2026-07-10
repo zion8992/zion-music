@@ -1,3 +1,6 @@
+--- Changelog 6.0 stable (July 10 2026) ---
+- Created game5.ogg
+
 --- Changelog 5.0 stable (June 28 2026) ---
 - Add lang.ogg
 
