@@ -18,9 +18,10 @@ Not inspired by anything.<br>
 Inpsired by game1.ogg from the original soundtrack.<br>
 <br>
 **game5.ogg**<br>
-Something I kept hearing in my head at night with a distuned cello. Woke up next day and made it in FL Studio. Came out pretty well.
+Based on a melody that kept playing in my head at night. Woke up next day and made it in FL Studio. Came out pretty well.
 <br>
-**game6.ogg** TODO<br>
+**game6.ogg** WIP<br>
+Made using Ultrabox, a Beebbox mod that runs entirely on the web browser.
 <br>
 **game7.ogg** TODO<br>
 <br>
@@ -46,4 +47,4 @@ Less dissonant and less "mindustry" than the other songs.<br>
 Inspired by 'editor.ogg' (original soundtrack) and 'Impact' (Purrple Cat: Distant Worlds 4)<br>
 <br>
 
-#### Version 6.0
+#### Version 7.0
