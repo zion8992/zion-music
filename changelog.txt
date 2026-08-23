@@ -1,3 +1,7 @@
+--- Changelog 7.0 Stable (August 23 2026) ---
+- Added a Dystopian Lead and Kick to menu.ogg
+- Added a Kick to menu.ogg
+
 --- Changelog 6.0 stable (July 10 2026) ---
 - Created game5.ogg
 
