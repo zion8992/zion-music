@@ -1,6 +1,6 @@
 ## Zion's Music
 A Mindustry mod that revamps the default Mindustry soundtrack.<br>
-**NOTE:** This mod is a work in progress, Im still adding new songs and improving existing ones.<br>
+**NOTE:** This mod is a work in progress, songs are not finished.<br>
 **Changelog**: [changelog.txt](changelog.txt)<br>
 <br>
 ## Musician's Notes
@@ -47,4 +47,4 @@ Less dissonant and less "mindustry" than the other songs.<br>
 Inspired by 'editor.ogg' (original soundtrack) and 'Impact' (Purrple Cat: Distant Worlds 4)<br>
 <br>
 
-#### Version 7.0
+#### Version 8.0

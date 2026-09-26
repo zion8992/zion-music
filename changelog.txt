@@ -1,3 +1,6 @@
+--- Changelog 8.0 stable (August 26 2026) ---
+- Changed '7.0' to '8.0' due to duplicate versions
+
 --- Changelog 7.0 Stable (August 23 2026) ---
 - Added a Dystopian Lead and Kick to menu.ogg
 - Added a Kick to menu.ogg
